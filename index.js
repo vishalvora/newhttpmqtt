@@ -5,6 +5,7 @@ app.set('port', process.env.PORT || 5000);
 
 // Our first route
 app.get('/', function (req, res) {
+  console.log(res);
   res.send('Hello Node + GitHub!');
 });
 
