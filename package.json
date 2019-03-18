@@ -15,6 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
-    "mqtt-packet": "^6.0.0",
+    "mqtt-packet": "^6.0.0"
   }
 }
